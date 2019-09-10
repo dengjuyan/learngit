@@ -6,9 +6,6 @@ git has a mutable index called stage.
 
 git tracks changes.
 
-<<<<<<< HEAD
-Creatinga new branch is quick & simple.
+Creating a new branch is quick and simple.
 
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
+git add merge.
